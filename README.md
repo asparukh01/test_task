@@ -23,3 +23,4 @@
 * Postgresql
 * Django
 * DRF
+* Swagger
